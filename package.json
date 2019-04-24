@@ -1,0 +1,19 @@
+{
+  "name": "workshop1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dokunet/typescript.git"
+  },
+  "author": "Dominik Luder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dokunet/typescript/issues"
+  },
+  "homepage": "https://github.com/Dokunet/typescript#readme"
+}
